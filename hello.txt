@@ -1,8 +1,2 @@
-hot-fix
-hot-fix
-hot-fix
-hot-fix
-hot-fix
-hot-fix
-hot-fix
-hello world
+this is hot-fix branch
+you should use this one!
